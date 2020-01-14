@@ -1,0 +1,11 @@
+Here as i told, with sentiment analysis, the system shall be able to judge the statements, whether the statement is being positive or negitive or neutral.
+In turn we understand whether its a happy or a sad statement basically!
+Lets do the coding with the help of R in this project.
+The dataset we use in this project is provided by the R package which is, janeaustenR.
+Lets understand what's exactly tidy data principle is:
+Using tidy data principles can make many text mining tasks easier, more effective, and consistent with tools already in wide use.
+Much of the infrastructure needed for text mining with tidy data frames already exists in packages like dplyr, broom, tidyr and ggplot2.
+In this package, we provide functions and supporting data sets to allow conversion of text to and from tidy formats,
+and to switch seamlessly between tidy tools and existing text mining packages.
+In order to build our project on sentiment analysis, we will make use of the tidytext package 
+that comprises of sentiment lexicons that are present in the dataset of ‘sentiments’.
